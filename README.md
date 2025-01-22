@@ -1,3 +1,3 @@
 # Grupo D. Estudos!
 
-![[luffy-smile-os5fogrcl2bylfkf.jpg]]
+<img src="assets/img/luffy.jpg" width="480" />
